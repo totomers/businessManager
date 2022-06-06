@@ -1,0 +1,10 @@
+.customParagraph{
+    width: max-content;
+}
+
+.spin_container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
